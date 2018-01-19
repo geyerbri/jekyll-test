@@ -1,4 +1,4 @@
-	name: Test Sub Blog
-	markdown: kramdown
+  name: Test Sub Blog
+  markdown: kramdown
   remote_theme: fongandrew/hydeout
   sidebar_home_link: true
