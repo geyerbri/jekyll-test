@@ -1,5 +1,3 @@
   name: Test Sub Blog
   markdown: kramdown
-  sidebar_home_link: true
-
   theme: jekyll-theme-time-machine
