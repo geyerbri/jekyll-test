@@ -1,6 +1,5 @@
   name: Test Sub Blog
   markdown: kramdown
-  remote_theme: fongandrew/hydeout
   sidebar_home_link: true
 
-theme: jekyll-theme-time-machine
+  theme: jekyll-theme-time-machine
