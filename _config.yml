@@ -1,4 +1,4 @@
   name: Test Sub Blog
   markdown: kramdown
-  theme: jekyll-theme-time-machine0
+  theme: jekyll-theme-time-machine
   permalink: /blog/:year/:month/:day/:title
