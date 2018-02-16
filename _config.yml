@@ -1,4 +1,5 @@
   name: Test Sub Blog
   markdown: kramdown
   theme: jekyll-theme-dinky
-  permalink: /blog/date
+  permalink: /blog/:year/:month/:day/:title
+  
