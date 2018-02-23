@@ -1,5 +1,4 @@
   name: Test Sub Blog
   markdown: kramdown
-  theme: jekyll-theme-dinky
+  remote_theme: fongandrew/hydeout
   permalink: /blog/:year/:month/:day/:title
-  
